@@ -9,7 +9,7 @@ I am a second-year computer science student at the University of Basilicata, wit
 * 🌍  I'm based in Potenza
 * ✉️  You can contact me at [fasanella.antonio.sanfele@gmail.com](mailto:fasanella.antonio.sanfele@gmail.com)
 * 🧠  I want to learn JavaScript, React and C#
-* 🤝  I'm open to collaborating on any project that will make me improve
+* 🤝  I am open to collaborate on any project that will help me grow
 * ⚡  I'm a good guy (I think...)
 
 ### Skills
