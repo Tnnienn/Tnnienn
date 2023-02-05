@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Back-End Dev and CS Student
 --------------------------------
 
-I am a second-year computer science student at the University of Basilicata, with a passion for programming. I have experience using languages such as C/C++, Java, and Python, and recently completed a course on back-end development using Java Spring at Develhope. On my GitHub profile, you will find my personal projects and my experiences in the field of programming.
+I am a second-year computer science student at the University of Basilicata, with a passion for programming. I have experience using languages such as C/C++, Java, and Python, and recently completed a course on back-end development using Java Spring at Develhope. On my GitHub profile, you will find my personal projects and my experiences.
 
 * 🌍  I'm based in Potenza
 * ✉️  You can contact me at [fasanella.antonio.sanfele@gmail.com](mailto:fasanella.antonio.sanfele@gmail.com)
